@@ -91,16 +91,6 @@ np.random.seed(42)
 
 to ensure reproducible Monte Carlo experiments.
 
-## Citation
-
-If you use this code in your research, please cite the accompanying paper.
-
-```text
-@article{YOUR_PAPER,
-  title   = {Rational Auditing for Verifiable Vector Aggregation},
-  author  = {Author(s)},
-  journal = {To appear},
-  year    = {2026}
 }
 ```
 
